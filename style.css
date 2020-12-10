@@ -1,0 +1,29 @@
+nav, 
+footer{
+  background-color: #862f14;
+}
+.btn{
+  background-color: #E64A19;
+}
+.header_bg{
+	height: 50vw;
+	max-height: 90vh;
+	background-image: url(img/header.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+  }
+  .coffee-banner-2 {
+    background-image: url(img/coffee-banner-2.jpg)
+}
+.bg-fixed {
+    background-attachment: fixed;
+}
+.section-padding {
+    padding: 110px 0;
+}
+.bg-fixed {
+    background-attachment: fixed;
+}
+.coffee-banner-3 {
+  background-image: url(img/coffee-banner-3.jpg)
+}
